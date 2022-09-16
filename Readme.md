@@ -6,6 +6,8 @@ Projeto de landing page responsiva utilizando html e CSS com base em um protóti
 
 [Projeto no Figma](https://www.figma.com/file/JXTJmNUyNAjg5GGQET9hQg/Projeto-Landing-Page-Code-Caf%C3%A9?node-id=0%3A1)
 
+#### [📱Telinhas](https://github.com/BrunoAndradeDinis/CodeCafe#telinhas) | [👁‍🗨Funcionalidades do projeto](https://github.com/BrunoAndradeDinis/CodeCafe#funcionalidades-do-projeto) | [⚙ Tecnologias utilizadas](https://github.com/BrunoAndradeDinis/CodeCafe#-tecnologias-utilizadas) | [🚀 Rodando o projeto](https://github.com/BrunoAndradeDinis/CodeCafe#-rodando-o-projeto) | [👥Colaboradores](https://github.com/BrunoAndradeDinis/CodeCafe#colaboradores) | [🎯 Status do projeto](https://github.com/BrunoAndradeDinis/CodeCafe#-status-do-projeto)
+
 ## 📱Telinhas
 
 ### Web:
@@ -74,7 +76,7 @@ Projeto dividido em 3 partes contendo as seguintes informações
 - VScode
 
 
-🚀 Rodando o projeto
+# 🚀 Rodando o projeto
 
 Clona aí pra analisar, é iniciante mas com atitude, pra rodar o projeto basta apenas clonar e executar o index.
 
